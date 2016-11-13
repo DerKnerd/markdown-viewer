@@ -1,0 +1,28 @@
+{
+  "name": "markdown-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerKnerd/markdown-viewer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DerKnerd/markdown-viewer/issues"
+  },
+  "homepage": "https://github.com/DerKnerd/markdown-viewer#readme",
+  "dependencies": {
+    "electron": "^1.4.6",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "marked": "^0.3.6"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.6"
+  }
+}
