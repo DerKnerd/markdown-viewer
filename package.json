@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/DerKnerd/markdown-viewer#readme",
   "dependencies": {
-    "electron": "^1.4.6",
+    "electron": "^9.4.0",
     "express": "^4.14.0",
     "express-handlebars": "^3.0.0",
     "marked": "^0.3.6"
